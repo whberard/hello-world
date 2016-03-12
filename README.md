@@ -1,2 +1,4 @@
 # hello-world
-my first github repository
+
+Hi! I'm a graduate student finishing a PhD in Number Theory.
+I like Sage and Python and Data.
